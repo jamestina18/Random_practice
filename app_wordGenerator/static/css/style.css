@@ -1,0 +1,19 @@
+.header{
+     display: center;
+     text-align: center;
+     color: salmon;
+     border: solid green;
+     border-radius: 15px;
+     padding: 20px;
+     margin-left: 35%;
+     margin-right: 35%;
+     
+}
+
+h2{
+     color: red;
+     text-align: center;
+}
+.reset{
+     text-align: center;
+}
